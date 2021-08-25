@@ -76,6 +76,10 @@ input::-moz-focus-inner {
 	max-height: 200px;
 }
 
+.cardresponsive{
+	height: 400px;
+}
+
 input, select, textarea {
 	-moz-appearance: none;
 	-webkit-appearance: none;
